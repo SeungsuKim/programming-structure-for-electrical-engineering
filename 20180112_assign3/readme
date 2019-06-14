@@ -1,0 +1,10 @@
+KimSeungsu 20180112 Assignment3
+I did the assignment by myself.
+
+The customer manager implemented using hash table was much more faster than the one using array.
+The customer manager implemented using array must traverse all the array to search a user info.
+However, the one implmented using hast table can search a user info with just traversing the part of the data.
+
+I have implemented the hash table expansion in RegisterCustomer function.
+
+It took 10 hours.
